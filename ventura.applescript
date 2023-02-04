@@ -8,7 +8,7 @@ tell application "System Events"
 			tell group 1
 				tell scroll area 1
 					tell outline 1
-						select row 22
+						select row 23
 					end tell
 				end tell
 			end tell
